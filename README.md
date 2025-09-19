@@ -1,6 +1,6 @@
-# Freenove_ESP32_S3_Display
+# Freenove M.2 NVMe SSD
 
-> Freenove ESP32 S3 Display
+> Freenove M.2 NVMe SSD
 
 <div align="center">   <img src="Picture/128GB.png" width="50%"/> </div>
 
@@ -16,7 +16,7 @@
 
   Run following command to download all the files in this repository.
 
-  `git clone https://github.com/Freenove/Freenove_ESP32_S3_Display`
+  `git clone https://github.com/Freenove/Freenove_M.2_NVMe_SSD`
 
 * **Manually download in browser**
 
