@@ -17,11 +17,11 @@ Please note the installation requirements for this product across different plat
 
       **Depending on your needs, you may select expansion hardware from our brand or other compatible third-party options.**
 
-        - Single SSD solution: If you plan to use only one SSD, it is recommended to use our `FNK0098 series of adapter board <https://store.freenove.com/products/fnk0098>`_ (Freenove M.2 NVMe Adapter V2 for Raspberry Pi 5) or `FNK0100 series <https://store.freenove.com/products/fnk0100>`_ (Freenove Computer Case Kit for Raspberry Pi 5). 
+        - Single SSD solution: If you plan to use only one SSD, it is recommended to use our `FNK0098 series of adapter board <https://freenove.com/FNK0098>`_ (Freenove M.2 NVMe Adapter V2 for Raspberry Pi 5) or `FNK0100 series <https://freenove.com/FNK0100>`_ (Freenove Computer Case Kit for Raspberry Pi 5). 
           
           **These models support both PCIe 2.0 and 3.0 protocols, ensuring optimal performance of the drive.**
         
-        - Multi-SSD Solution:If you need to deploy a multi-drive array, the `FNK0105 series <https://store.freenove.com/products/fnk0105>`_ (Freenove Quad / Dual M.2 NVMe Adapter for Raspberry Pi 5) are recommended. 
+        - Multi-SSD Solution:If you need to deploy a multi-drive array, the `FNK0105 series <https://freenove.com/FNK0105>`_ (Freenove Quad / Dual M.2 NVMe Adapter for Raspberry Pi 5) are recommended. 
        
           **Please note that this series only support the PCIe 2.0 protocol.**
 
